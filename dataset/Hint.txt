@@ -1,0 +1,6 @@
+Copy file
+
+usersha1-artmbid-artname-plays.tsv
+usersha1-profile.tsv
+
+to this folder
